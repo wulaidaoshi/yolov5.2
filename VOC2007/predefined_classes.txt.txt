@@ -1,0 +1,5 @@
+key
+card
+wallet
+phone
+headset
